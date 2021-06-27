@@ -1,3 +1,8 @@
+/*
+本著作係採用創用 CC 姓名標示-非商業性 3.0 台灣 授權條款授權.
+Contributor: Sheng-Wei Wang
+*/
+
 #ifndef block_h
 #define block_h
 
